@@ -1,4 +1,4 @@
-package com.hackosynth.studiekotlin
+package com.hackosynth.studiekotlin.cap2
 
 fun main() {
     val shapes: List<Shape> = listOf(Rectangle(10, 5), Circle(5))

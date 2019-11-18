@@ -1,4 +1,4 @@
-package com.hackosynth.studiekotlin
+package com.hackosynth.studiekotlin.cap2
 
 fun main() {
     val vector = addVectors(listOf(Vector3D(1, 2, 3), Vector3D(5, 4, 3), Vector3D(7, 5, 3)))
