@@ -1,4 +1,4 @@
-package com.hackosynth.studiekotlin
+package com.hackosynth.studiekotlin.cap2
 
 fun main() {
     val message1: String by lazy { getMessage() }

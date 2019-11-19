@@ -1,4 +1,4 @@
-package com.hackosynth.studiekotlin
+package com.hackosynth.studiekotlin.cap2
 
 fun main() {
     val list = listOf(1, 2, 3, 4, 5, 6, 7, 8, 9)
